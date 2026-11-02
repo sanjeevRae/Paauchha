@@ -1,0 +1,11 @@
+{
+  "title": "paauchha decor",
+  "description": "Explore luxury wedding and event decoration services, portfolios, and packages, then connect with Paauchha Decor to plan a memorable celebration in Kathmandu.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
